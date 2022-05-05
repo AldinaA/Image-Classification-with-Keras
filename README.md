@@ -1,4 +1,4 @@
-An example from
+Modified and working example from
 https://www.geeksforgeeks.org/python-image-classification-using-keras/
 
 Links to dataset are here:
